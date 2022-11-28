@@ -3,7 +3,7 @@
 - **My latest project** is [Hisaab](https://github.com/varshabhadana/finance-management-project) finance management web application made with React and Next.js.
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Next.js, Node.js, PosgreSQL, TailwindCSS, Emotion, Jest and Playwright**
 
-- 📫 How to reach me **varshabhadana@gmail.com**
+- 📫 How to reach me **varshabhadana93@gmail.com**
 ### Tech Stack
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
