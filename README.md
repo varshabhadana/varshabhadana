@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varshabhadana
 - **Frontend developer** currently based in Vienna, Austria.
-- **My latest project** is[Hisaab] (https://github.com/varshabhadana/finance-management-project) finance management web application made with React and Next.js.
+- **My latest project** is [Hisaab](https://github.com/varshabhadana/finance-management-project) finance management web application made with React and Next.js.
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Next.js, Node.js, PosgreSQL, TailwindCSS, Emotion, Jest and Playwright**
 
 - 📫 How to reach me **varshabhadana@gmail.com**
